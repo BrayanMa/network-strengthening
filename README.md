@@ -12,8 +12,9 @@ $python3 ameliorations.py [-h] [--metro [METRO ...]] [--rer [RER ...]]
 ```
 optional arguments:
 ```
-  -h, --help            show this help message and exit```
-  ```--metro [METRO ...]   load line of metro
+  -h, --help            show this help message and exit
+  ```
+  --metro [METRO ...]   load line of metro
   --rer [RER ...]       load line of rer
   --liste-stations      displays the list of network stations with their
                         identifier sorted in order alphabetical
@@ -29,6 +30,6 @@ optional arguments:
   --ameliorer-ponts     displays the bridges of the network that has been
                         loaded, as well as the edges to addso that these edges
                         are no longer bridges.
-                        ```
+                        
                         
 
