@@ -11,22 +11,24 @@ $python3 ameliorations.py [-h] [--metro [METRO ...]] [--rer [RER ...]]
                         [--ameliorer-articulations] [--ameliorer-ponts]
 ```
 optional arguments:
- ``` -h, --help            show this help message and exit```
-  ```--metro [METRO ...]   load line of metro```
-  ```--rer [RER ...]       load line of rer```  
-  ```--liste-stations      displays the list of network stations with their
-                        identifier sorted in order alphabetical```
-  ```--articulations       displays the articulation points of the network that
-                        has been loaded```
-  ```--ponts               displays the bridges of the network that has been
-                        loaded```
-  ```--ameliorer-articulations
+```
+  -h, --help            show this help message and exit
+  --metro [METRO ...]   load line of metro
+  --rer [RER ...]       load line of rer
+  --liste-stations      displays the list of network stations with their
+                        identifier sorted in order alphabetical
+  -articulations       displays the articulation points of the network that
+                        has been loaded
+  --ponts               displays the bridges of the network that has been
+                        loaded
+  --ameliorer-articulations
                         displays the articulation points of the network that
                         has been loaded,as well as the edges to be added so
                         that these stations are no longer points of
-                        articulation```
+                        articulation
   --ameliorer-ponts     displays the bridges of the network that has been
                         loaded, as well as the edges to addso that these edges
                         are no longer bridges.
                         ```
+                        
 
