@@ -11,9 +11,8 @@ $python3 ameliorations.py [-h] [--metro [METRO ...]] [--rer [RER ...]]
                         [--ameliorer-articulations] [--ameliorer-ponts]
 ```
 optional arguments:
-```
-  -h, --help            show this help message and exit
-  ```
+
+  ```-h, --help            show this help message and exit```
   ```--metro [METRO ...]   load line of metro```
   --rer [RER ...]       load line of rer
   --liste-stations      displays the list of network stations with their
