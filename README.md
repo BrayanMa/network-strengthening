@@ -17,7 +17,7 @@ optional arguments:
   --rer [RER ...]       load line of rer
   --liste-stations      displays the list of network stations with their
                         identifier sorted in order alphabetical
-  -articulations       displays the articulation points of the network that
+  -articulations        displays the articulation points of the network that
                         has been loaded
   --ponts               displays the bridges of the network that has been
                         loaded
